@@ -1,0 +1,30 @@
+Conversion de Solid Edge en STL
+Date: mercredi,septembre 13,2023 05:39
+Fichier source:C:\Users\alexa\OneDrive\Documents\rosbot\1_CAO\entretoise_chassis.par
+Système source: SOLID EDGE
+
+Matériel:
+Processeur: Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz
+Système d'exploitation: Windows 10 Professional
+Mémoire installée: 15,85 GB
+
+Informations logiciel:
+Version de Parasolid: 31.1.255
+Version de PSBodyshop: 31.1.110
+Version de Solid Edge: 220.00.00.104 x64
+
+Options d'exportation STL:
+Format de fichier de sortie:BINARY
+Exporter les pièces affichées: Off
+structureOption: Monolithic
+Unités d'exportation:Millimeter
+Exporter la valeur de tolérance:0,050000
+Exporter le type de tolérance:Custom
+Exporter la valeur d'angle du plan de surface:0,523599
+
+Progression de la conversion:
+Phase 1 sur 2 - Récupération des informations Parasolid...
+Phase 2 sur 2 - Conversion de Parasolid en types de données externes...
+Nombre de fichiers STL créés: 1
+Processus de conversion terminé
+Durée nécessaire pour la conversion:00 : 00 : 00
